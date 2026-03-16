@@ -31,7 +31,7 @@ ALLOWED_HOSTS = [
     '192.168.170.105',
     'abdulsalim.pythonanywhere.com', 
      'dryakubuharunagado.onrender.com',
-      'dashboard.dryakubuharunagado.com' # production backend
+      'dashboard.dryakubuharunagado.com' 
 ]
 
 # CORS: allow frontend origin
