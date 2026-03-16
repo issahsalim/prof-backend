@@ -32,8 +32,8 @@ ALLOWED_HOSTS = [
      'profelvisasarebediako.onrender.com'
 ]
 
-# CORS: allow frontend origin
-CORS_ALLOW_ALL_ORIGINS = True  # For dev; set CORS_ALLOWED_ORIGINS in production
+# CORS: allow frontend origin (Netlify) to call the API (Render)
+CORS_ALLOW_ALL_ORIGINS = False
 
 
 # Application definition
@@ -79,7 +79,7 @@ TEMPLATES = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://profelvisasarebediako.netlify.app/",
+    "https://profelvisasarebediako.netlify.app",
      
 ]
 
