@@ -29,9 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '192.168.170.105',
-    'abdulsalim.pythonanywhere.com', 
-     'dryakubuharunagado.onrender.com',
-      'dashboard.dryakubuharunagado.com' 
+     'profelvisasarebediako.onrender.com'
 ]
 
 # CORS: allow frontend origin
@@ -81,7 +79,7 @@ TEMPLATES = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://boresa.netlify.app",
+    "https://profelvisasarebediako.netlify.app/",
     "http://localhost:5173", 
     "http://127.0.0.1:5173",
 ]
