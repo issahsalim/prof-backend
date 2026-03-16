@@ -145,10 +145,10 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True 
-EMAIL_HOST_USER = 'projectfreestress@gmail.com'
-EMAIL_HOST_PASSWORD = 'zone xpnd mgpa scji'
-DEFAULT_FROM_EMAIL = 'projectfreestress@gmail.com'
-CONTACT_EMAIL_TO = 'projectfreestress@gmail.com'  # Dr. Gado's email for contact notifications
+EMAIL_HOST_USER = 'abdulsalim8044@gmail.com'
+EMAIL_HOST_PASSWORD = 'pjlo vzyo lndf ejay'
+DEFAULT_FROM_EMAIL = 'abdulsalim8044@gmail.com'
+CONTACT_EMAIL_TO = 'abdulsalim8044@gmail.com'  
 
 
 
